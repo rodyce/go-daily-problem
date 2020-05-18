@@ -65,6 +65,3 @@ func isTherePair(L []int, k int) bool {
 	}
 	return false
 }
-
-func main() {
-}
