@@ -10,7 +10,7 @@ Given a list L and a constant k, find if there is a pair (p, q) such that
 p + q = k.
 */
 
-package main
+package pair_sum_to_k
 
 func isTherePairNaive(L []int, k int) bool {
 	for i, p := range L {
